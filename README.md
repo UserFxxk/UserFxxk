@@ -71,24 +71,6 @@ Halo! Saya seorang **developer kecil yang suka membangun daily tools** sekaligus
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=fatakarim-collab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-
-<!-- Streak Card -->
-<img src="https://streak-stats.demolab.com?user=fatakarim-collab&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6584&fire=FF6584&currStreakLabel=6C63FF" alt="GitHub Streak" height="180" />
-
-</div>
-
-<!-- Most Used Languages -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatakarim-collab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
-</div>
-
----
 
 ## 🤝 Mari Terhubung!
 
