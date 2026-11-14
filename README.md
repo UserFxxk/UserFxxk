@@ -13,7 +13,7 @@
 <!-- Quick Action Badges -->
 [![Portfolio Website](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-userfxxk.github.io-6C63FF?style=for-the-badge)](https://userfxxk.github.io)
 [![Download CV](https://img.shields.io/badge/📄_RESUME_/_CV-ATS_READY-10B981?style=for-the-badge)](https://userfxxk.github.io/cv.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fata-fatikhul-karim-587567357)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fata-fatikhul-karim)
 [![HackerOne](https://img.shields.io/badge/HackerOne-@zeonmaltius-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/zeonmaltius)
 ![Profile Views](https://komarev.com/ghpvc/?username=UserFxxk&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
@@ -93,7 +93,7 @@ Halo! Saya **Fata Fatikhul Karim**, seorang **Software Developer** yang gemar me
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-userfxxk.github.io-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://userfxxk.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fata_Fatikhul_Karim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fata-fatikhul-karim-587567357)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fata_Fatikhul_Karim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fata-fatikhul-karim)
 [![HackerOne](https://img.shields.io/badge/HackerOne-zeonmaltius-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/zeonmaltius)
 [![Instagram](https://img.shields.io/badge/Instagram-@fanoxta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fanoxta)
 [![Email](https://img.shields.io/badge/Email-fatafatikhul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatafatikhul@gmail.com)
