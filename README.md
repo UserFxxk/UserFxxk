@@ -42,7 +42,7 @@ Halo! Saya **Fata Fatikhul Karim**, seorang **Self-Taught Software Developer** y
 | [**📱 Android & Browser MCP Bridge**](https://github.com/UserFxxk/android-browser-mcp) | `AI Automation` | `Node.js`, `MCP`, `ADB`, `CDP` | Server Model Context Protocol dengan 40+ tool otomatisasi untuk mengendalikan perangkat Android fisik via ADB wireless & Chrome headless. |
 | [**🤖 JARVIS — Gemini AI WhatsApp Bot**](https://github.com/UserFxxk/jarvis-whatsapp-ai) | `AI Integration` | `Node.js`, `Baileys`, `Gemini AI` | Bot asisten WhatsApp cerdas berbasis *multi-file auth state* dan Google GenAI SDK untuk balasan kontekstual *real-time*. |
 | [**⚡ Scorp — Go LLM System Agent**](https://github.com/UserFxxk/scorp) | `System Agent` | `Golang`, `CLI`, `LLM` | Agen biner Go ringan yang menghubungkan LLM langsung ke shell, sistem file, browser, dan jaringan. |
-| [**🛠️ Fata Termux Toolkit V2 & Recon**](https://github.com/UserFxxk/fata-termux-toolkit) | `CLI & AppSec` | `Python`, `Nuclei`, `Subfinder` | Toolkit produktivitas CLI berbasis Python, diagnostik jaringan, dan pipeline *reconnaissance* OWASP Top 10. |
+| [**🛡️ Fata Recon & AppSec Audit Suite v2.0**](https://github.com/UserFxxk/fata-termux-toolkit) | `AppSec & Recon CLI` | `Python`, `OSINT`, `OWASP` | CLI Python *zero-dependency* untuk audit *Security Headers*, inspeksi *CORS/Cookie*, enumerasi subdomain pasif (`OTX/crt.sh`), & laporan Markdown otomatis. |
 
 ---
 
