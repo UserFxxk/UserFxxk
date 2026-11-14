@@ -23,7 +23,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Fata Fatikhul Karim**, seorang **Software Developer** yang gemar membangun *daily tools & AI automation*, sekaligus **Bug Bounty Hunter** di waktu luang. Saya percaya bahwa memahami cara kerja serangan membuat kita menjadi developer yang jauh lebih tangguh — karena siapa yang bisa melindungi, pasti memahami cara mengujinya! 🛡️💻
+Halo! Saya **Fata Fatikhul Karim**, seorang **Self-Taught Software Developer** yang gemar membangun *daily tools & AI automation*, sekaligus **Bug Bounty Hunter** di waktu luang. Meskipun berlatar belakang akademik non-IT di **Universitas Jenderal Soedirman (UNSOED)**, saya mempelajari seluruh ekosistem *Software Engineering*, *Linux*, dan *Application Security* **100% secara otodidak dari nol**. Saya percaya bahwa memahami cara kerja serangan membuat kita menjadi developer yang jauh lebih tangguh! 🛡️💻
 
 - 🌐 **Portofolio Interaktif & CV:** [**https://userfxxk.github.io**](https://userfxxk.github.io)
 - 🏗️ Sehari-hari membangun **aplikasi web modern, MCP servers, & sistem otomasi AI**
@@ -42,7 +42,7 @@ Halo! Saya **Fata Fatikhul Karim**, seorang **Software Developer** yang gemar me
 | [**📱 Android & Browser MCP Bridge**](https://github.com/UserFxxk/android-browser-mcp) | `AI Automation` | `Node.js`, `MCP`, `ADB`, `CDP` | Server Model Context Protocol dengan 40+ tool otomatisasi untuk mengendalikan perangkat Android fisik via ADB wireless & Chrome headless. |
 | [**🤖 JARVIS — Gemini AI WhatsApp Bot**](https://github.com/UserFxxk/jarvis-whatsapp-ai) | `AI Integration` | `Node.js`, `Baileys`, `Gemini AI` | Bot asisten WhatsApp cerdas berbasis *multi-file auth state* dan Google GenAI SDK untuk balasan kontekstual *real-time*. |
 | [**⚡ Scorp — Go LLM System Agent**](https://github.com/UserFxxk/scorp) | `System Agent` | `Golang`, `CLI`, `LLM` | Agen biner Go ringan yang menghubungkan LLM langsung ke shell, sistem file, browser, dan jaringan. |
-| **🛡️ Recon & Resilience Toolkit** | `AppSec / Recon` | `Python Asyncio`, `Nuclei`, `Subfinder` | Pipeline *reconnaissance* otomatis untuk pemetaan *attack surface* dan deteksi celah **OWASP Top 10**. |
+| [**🛠️ Fata Termux Toolkit V2 & Recon**](https://github.com/UserFxxk/fata-termux-toolkit) | `CLI & AppSec` | `Python`, `Nuclei`, `Subfinder` | Toolkit produktivitas CLI berbasis Python, diagnostik jaringan, dan pipeline *reconnaissance* OWASP Top 10. |
 
 ---
 
