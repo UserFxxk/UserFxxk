@@ -39,8 +39,8 @@ Halo! Saya **Fata Fatikhul Karim**, seorang **Software Developer** yang gemar me
 | Proyek | Kategori | Teknologi Utama | Deskripsi Singkat |
 | :--- | :--- | :--- | :--- |
 | [**🌐 Interactive Developer Portfolio**](https://userfxxk.github.io) | `Web / Portfolio` | `HTML5`, `CSS3`, `JS` | Website portofolio interaktif dwibahasa (ID/EN) dengan simulasi terminal, halaman CV ATS siap cetak PDF, & LinkedIn Banner Studio. |
-| **📱 Android & Browser MCP Bridge** | `AI Automation` | `Node.js`, `MCP`, `ADB`, `CDP` | Server Model Context Protocol dengan 40+ tool otomatisasi untuk mengendalikan perangkat Android fisik via ADB wireless & Chrome headless. |
-| **🤖 Gemini AI WhatsApp Assistant** | `AI Integration` | `Node.js`, `Baileys`, `Gemini AI` | Bot asisten WhatsApp cerdas berbasis *multi-file auth state* dan Google GenAI SDK untuk balasan kontekstual *real-time*. |
+| [**📱 Android & Browser MCP Bridge**](https://github.com/UserFxxk/android-browser-mcp) | `AI Automation` | `Node.js`, `MCP`, `ADB`, `CDP` | Server Model Context Protocol dengan 40+ tool otomatisasi untuk mengendalikan perangkat Android fisik via ADB wireless & Chrome headless. |
+| [**🤖 JARVIS — Gemini AI WhatsApp Bot**](https://github.com/UserFxxk/jarvis-whatsapp-ai) | `AI Integration` | `Node.js`, `Baileys`, `Gemini AI` | Bot asisten WhatsApp cerdas berbasis *multi-file auth state* dan Google GenAI SDK untuk balasan kontekstual *real-time*. |
 | [**⚡ Scorp — Go LLM System Agent**](https://github.com/UserFxxk/scorp) | `System Agent` | `Golang`, `CLI`, `LLM` | Agen biner Go ringan yang menghubungkan LLM langsung ke shell, sistem file, browser, dan jaringan. |
 | **🛡️ Recon & Resilience Toolkit** | `AppSec / Recon` | `Python Asyncio`, `Nuclei`, `Subfinder` | Pipeline *reconnaissance* otomatis untuk pemetaan *attack surface* dan deteksi celah **OWASP Top 10**. |
 
